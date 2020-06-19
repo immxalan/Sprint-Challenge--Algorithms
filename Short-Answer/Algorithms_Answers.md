@@ -8,7 +8,7 @@ a) O(n^3) - quadratic
 b) O(log(n)) - logarithmic
 
 
-c) O(c^n) - exponential
+c) O(c^n) - linear
 
 ## Exercise II
 
